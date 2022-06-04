@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emoneemu
 - 👀 I’m interested in machine learning and software designing 
-- 🌱 I’m currently learning bootstrap to make responsive website
+- 🌱 I’m currently learning django framework for backend development
 
 <!---
 emoneemu/emoneemu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
