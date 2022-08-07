@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emoneemu
 - 👀 I’m interested in machine learning and software designing 
-- 🌱 I’m currently learning django framework for backend development
+- 🌱 I’m currently interested in backend development with django and node.js .. keep me in your prayers guys 
 
 <!---
 emoneemu/emoneemu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
