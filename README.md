@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 --->                                                                              
 <h1 align="center">Hi 👋, I'm Sazid AL Emon</h1>
-<h3 align="center">A passionate Full stack Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Backend Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emoneemu&label=Profile%20views&color=0e75b6&style=flat" alt="emoneemu" /> </p>
 
