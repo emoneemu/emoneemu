@@ -25,7 +25,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://www.linkedin.com/in/sazid-al-emon/" target="_blank"><img src=""></a>
 </p>
---->                                                                              
+---> 
+
+
+
 <h1 align="center">Hi 👋, I'm Sazid AL Emon</h1>
 <h3 align="center">A passionate Backend Engineer from Bangladesh</h3>
 
@@ -37,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Python, Django, JavaScript & node.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sazid-al-emon/**
+- 📫 How to reach me <a href= "https://www.linkedin.com/in/sazid-al-emon/" target="_blank">Sazid AL Emon</a>
 
 - 👀 Interested at **Machine learning**
 
