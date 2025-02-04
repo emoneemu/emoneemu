@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there , I am Sazid AL Emon 👋 </h1>
 
 - 💬 ask me about <strong>Python, Django, JavaScript & node.js</strong>
-- 🌱 I’m currently learning <strong>Front-end development using react</strong>
+- 🌱 I’m currently exploring <strong>react</strong>
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/sazid-al-emon/" target="_blank">Sazid AL Emon</a>
 - 👀 interested at <strong>Machine Learning</strong>
 
