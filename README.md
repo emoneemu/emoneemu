@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/emoneemu" target="blank"><img src="https://img.shields.io/twitter/follow/emoneemu?logo=twitter&style=for-the-badge" alt="emoneemu" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end development using react**
+- 🌱 I’m currently exploring **react**
 
 - 💬 Ask me about **Python, Django, JavaScript & node.js**
 
